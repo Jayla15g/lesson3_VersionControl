@@ -4,16 +4,16 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(June 1, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Jayla Mitchell)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(I will be summarizing five key concepts on a webpage that I learned in lesson 3.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Version Control System (VCS) is one main repository for all of the project files)
+2. (VSC will automatically note the revision history, when changes were made, and what was changed)
+3. (Our three basic commands will be git add, git commit, and git push)
 
